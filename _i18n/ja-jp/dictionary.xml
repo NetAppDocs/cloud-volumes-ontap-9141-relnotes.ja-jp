@@ -773,4 +773,8 @@ HAペア：18（ノード^1^</block>
   <block id="4d90d21642c7222312363da000d7409f" category="inline-link">P6パッチで修正されたバグの一覧を表示する</block>
   <block id="bc5568aec017ad2e5cf0a5e90091f4c6" category="paragraph"><block ref="c6ea3d1829515f9d3bb15b101f831fb6" category="inline-link-rx"></block> （NetAppサポートサイトへのログインが必要です）。</block>
   <block id="b710bbf07a9ba1fa06f2e6f4e77a42db" category="paragraph">次の表に示す帯域幅は、各インスタンスタイプごとにドキュメント化されている AWS の制限に一致しています。これらの制限は、 Cloud Volumes ONTAP が提供する機能と完全に一致しているわけではありません。想定されるパフォーマンスについては、を参照してください<block ref="c23654021de34c23e6d408104aa3bf49" category="inline-link-rx"></block>。</block>
+  <block id="890194399bbc46a6d256318488025c18" category="section-title">9.14.1 P7（2024年8月29日）</block>
+  <block id="85575f1cf17c6f7c0cff15bbac0fda4b" category="paragraph">すべてのクラウドプロバイダのCloud Volumes ONTAPで、9.14.1 P7パッチが利用できるようになりました。BlueXPでは、既存のシステムをこのパッチリリースにアップグレードするように求められます。</block>
+  <block id="7fa6a95154192207488dcc8bf13f9366" category="inline-link">P7パッチで修正されたバグの一覧を表示する</block>
+  <block id="d02197ad3a3d980855960fa6ac44486e" category="paragraph"><block ref="dfa426c84f3d8dcbde32f8f8c07879b3" category="inline-link-rx"></block> （NetAppサポートサイトへのログインが必要です）。</block>
 </blocks>
