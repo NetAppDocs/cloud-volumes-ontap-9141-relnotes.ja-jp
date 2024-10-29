@@ -777,4 +777,8 @@ HAペア：18（ノード^1^</block>
   <block id="85575f1cf17c6f7c0cff15bbac0fda4b" category="paragraph">すべてのクラウドプロバイダのCloud Volumes ONTAPで、9.14.1 P7パッチが利用できるようになりました。BlueXPでは、既存のシステムをこのパッチリリースにアップグレードするように求められます。</block>
   <block id="7fa6a95154192207488dcc8bf13f9366" category="inline-link">P7パッチで修正されたバグの一覧を表示する</block>
   <block id="d02197ad3a3d980855960fa6ac44486e" category="paragraph"><block ref="dfa426c84f3d8dcbde32f8f8c07879b3" category="inline-link-rx"></block> （NetAppサポートサイトへのログインが必要です）。</block>
+  <block id="ce51d14c907d98eae856d66d441de926" category="section-title">9.14.1 P8（2024年10月29日）</block>
+  <block id="165dcfb526b6d1d3039c36417f4c9d22" category="paragraph">すべてのクラウドプロバイダのCloud Volumes ONTAPで、9.14.1 P8パッチが利用できるようになりました。BlueXPでは、既存のシステムをこのパッチリリースにアップグレードするように求められます。</block>
+  <block id="a5757ef07045a814bda504c5b48177c6" category="inline-link">P8パッチで修正されたバグの一覧を表示する</block>
+  <block id="883b2723fa4c7efe9f12fa9fbf8137ab" category="paragraph"><block ref="69dd6d0b993534cd7fb8846b6ef20239" category="inline-link-rx"></block> （NetAppサポートサイトへのログインが必要です）。</block>
 </blocks>
