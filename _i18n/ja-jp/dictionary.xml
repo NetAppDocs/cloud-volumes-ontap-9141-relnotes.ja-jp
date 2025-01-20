@@ -738,7 +738,6 @@ HAペア：18（ノード^1^</block>
   <block id="d75c8a72363ede5ded8979310421b255" category="paragraph">を活用する場合は<block ref="e066b15eeebd4e6d571fd7dd588f94f7" category="inline-link-rx"></block> Cloud Volumes ONTAP を導入する VPC 内で、必要なにトラフィックを転送する DNS レコードを実装する必要があります<block ref="e6b10532507a1a1747789a49cf51c637" category="inline-link-rx"></block>。</block>
   <block id="406156e49006d700786c581646d94504" category="paragraph">Cloud Volumes ONTAP から Google Cloud Storage バケットへのデータの階層化は、現在プライベートサービス接続ではサポートされていません。</block>
   <block id="fd03e656adaf90d76d9f033d590bdd69" category="sidebar">このリリースノートでは、Cloud Volumes ONTAP 9.14.1の新機能、制限事項、および既知の問題について説明します。</block>
-  <block id="3f93d29b3f8dc957c8b9ced853857b76" category="sidebar">Cloud Volumes ONTAP 9.14.1リリースノート</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">はじめに</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新機能</block>
   <block id="8efc36afc2e7202a9c9bda00b8e8a75d" category="sidebar">ライセンスの概要</block>
@@ -785,4 +784,8 @@ HAペア：18（ノード^1^</block>
   <block id="4b99ccc66c896711e2667fd1c7cc5a70" category="inline-link">P9パッチで修正されたバグの一覧を表示する</block>
   <block id="fb8ea0e4d51a0d0169a671ee181b9aaf" category="paragraph"><block ref="2b0276e874ba4b91c515b88422e5a6f6" category="inline-link-rx"></block> （NetAppサポートサイトへのログインが必要です）。</block>
   <block id="f1786ba391739a1a365a117fb19de2ea" category="sidebar">Cloud Volumes ONTAP 9.14.1リリースノート</block>
+  <block id="dcfb927b1f6b73f1bfaae1d56a4950bf" category="section-title">9.14.1 P10（2025年1月20日）</block>
+  <block id="78571fb34d82664f7485b0ab5ac3147e" category="paragraph">すべてのクラウドプロバイダのCloud Volumes ONTAPで、9.14.1 P10パッチが利用できるようになりました。BlueXPでは、既存のシステムをこのパッチリリースにアップグレードするように求められます。</block>
+  <block id="7c8ff86b41b72d8fa99855f2e2c45139" category="inline-link">P10パッチで修正されたバグの一覧を表示する</block>
+  <block id="59bb8174658546e00a502e06d274f287" category="paragraph"><block ref="fe45cd9e277846676a08a57720dc0074" category="inline-link-rx"></block> （NetAppサポートサイトへのログインが必要です）。</block>
 </blocks>
